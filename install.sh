@@ -7,6 +7,8 @@ rm -f /storage/.config/system.d/rclone*
 
 tar -xzvf /storage/storage.tar.gz
 
+systemctl daemon-reload
+
 systemctl stop rclone_iptv
 systemctl stop rclone_recordings
 systemctl stop rclone_music_1
