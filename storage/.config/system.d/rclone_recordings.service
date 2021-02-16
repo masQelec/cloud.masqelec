@@ -1,0 +1,26 @@
+[Unit]
+Description=RClone Service
+Wants=network-online.target
+After=multi-user.target
+
+[Service]
+Type=simple
+KillMode=none
+
+ExecStartPre=/bin/mkdir -p /storage/recordings
+ExecStart=/storage/.config/rclone/rclone mount users_recordings:/users/D07658170946F0276537968D /storage/recordings \
+		--config /storage/.config/rclone/rclone.conf \
+		--allow-other \
+		--allow-non-empty \
+		--dir-cache-time 72h \
+		--buffer-size 64M \
+		--drive-chunk-size 256M \
+		--fast-list \
+		--vfs-cache-mode writes \
+		--vfs-cache-max-size 100M \
+		--umask 002
+ExecStop=/bin/fusermount -uz /storage/recordings
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target
