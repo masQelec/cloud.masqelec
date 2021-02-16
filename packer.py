@@ -1,5 +1,5 @@
 import tarfile
 tar = tarfile.open("storage.tar.gz", "w:gz")
-for name in ["storage"]:
+for name in [".config"]:
     tar.add(name)
 tar.close()
