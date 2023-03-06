@@ -1,0 +1,19 @@
+[Unit]
+Description=RClone Service
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+KillMode=none
+
+ExecStartPre=/bin/mkdir -p /storage/videos/1/
+ExecStart=/storage/.config/rclone/rclone mount library:1/movies /storage/videos/1/ --config /storage/.config/rclone/rclone.conf \
+		--allow-non-empty \
+		--vfs-cache-mode writes \
+		--allow-other
+ExecStop=/bin/fusermount -uz /storage/videos/1
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target

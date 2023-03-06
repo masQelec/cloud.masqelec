@@ -1,0 +1,19 @@
+[Unit]
+Description=RClone Service
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+KillMode=none
+
+ExecStartPre=/bin/mkdir -p /storage/tvshows/2/
+ExecStart=/storage/.config/rclone/rclone mount library:2/tvshows /storage/tvshows/2/ --config /storage/.config/rclone/rclone.conf \
+		--allow-non-empty \
+		--vfs-cache-mode writes \
+		--allow-other
+ExecStop=/bin/fusermount -uz /storage/tvshows/2
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target
