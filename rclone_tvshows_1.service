@@ -11,6 +11,7 @@ ExecStartPre=/bin/mkdir -p /storage/tvshows/1/
 ExecStart=/storage/.config/rclone/rclone mount users_library_1:tvshows /storage/tvshows/1/ --config /storage/.config/rclone/rclone.conf \
 		--allow-other \
 		--allow-non-empty \
+		--read-only \
 		--vfs-cache-mode writes
 ExecStop=/bin/fusermount -uz /storage/tvshows/1/
 Restart=on-abort

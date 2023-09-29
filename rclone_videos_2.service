@@ -11,8 +11,9 @@ ExecStartPre=/bin/mkdir -p /storage/videos/2/
 ExecStart=/storage/.config/rclone/rclone mount users_library_2:movies /storage/videos/2/ --config /storage/.config/rclone/rclone.conf \
 		--allow-other \
 		--allow-non-empty \
+		--read-only \
 		--vfs-cache-mode writes
-ExecStop=/bin/fusermount -uz /storage/videos/2
+ExecStop=/bin/fusermount -uz /storage/videos/2/
 Restart=on-abort
 
 [Install]
