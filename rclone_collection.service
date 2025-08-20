@@ -1,0 +1,19 @@
+[Unit]
+Description=RClone Service
+Wants=network-online.target
+After=multi-user.target
+
+[Service]
+Type=simple
+KillMode=none
+
+ExecStartPre=/bin/mkdir -p /storage/.cache/collection/
+ExecStart=/storage/.config/rclone/rclone mount users_collection: /storage/.cache/collection/ --config /storage/.config/rclone/rclone.conf \
+		--allow-other \
+		--allow-non-empty \
+		--read-only \
+ExecStop=/bin/fusermount -uz /storage/.cache/collection/
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target
