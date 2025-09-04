@@ -1,20 +1,40 @@
 [Unit]
-Description=RClone Service
+Description=rclone (videos_1) ULTRA-LIGERA
 Wants=network-online.target
-After=multi-user.target
+After=network-online.target
+Requires=network-online.target
 
 [Service]
 Type=simple
-KillMode=none
+User=root
+Group=root
 
-ExecStartPre=/bin/mkdir -p /storage/videos/1/
-ExecStart=/storage/.config/rclone/rclone mount users_library_1:movies /storage/videos/1/ --config /storage/.config/rclone/rclone.conf \
-		--allow-other \
-		--allow-non-empty \
-		--read-only \
-		--vfs-cache-mode writes
-ExecStop=/bin/fusermount -uz /storage/videos/1/
-Restart=on-abort
+LimitNOFILE=65535
+KillMode=mixed
+KillSignal=SIGINT
+TimeoutStopSec=20
+
+# Preparación
+ExecStartPre=/bin/mkdir -p /storage/videos/1
+ExecStartPre=/bin/sh -c 'mountpoint -q /storage/videos/1 && /bin/fusermount -uz /storage/videos/1 || true'
+
+# Montaje
+ExecStart=/storage/.config/rclone/rclone mount users_library_1:movies /storage/videos/1 \
+  --config /storage/.config/rclone/rclone.conf \
+  --read-only \
+  --vfs-cache-mode off \
+  --vfs-read-chunk-size 4M \
+  --vfs-read-chunk-size-limit 64M \
+  --buffer-size 4M \
+  --umask 002
+  
+# Parada limpia
+ExecStop=/bin/sh -c 'mountpoint -q /storage/videos/1 && /bin/fusermount -uz /storage/videos/1 || true'
+ExecStopPost=/bin/sh -c 'rmdir /storage/videos/1 || true'
+
+# Robustez
+Restart=on-failure
+RestartSec=3
 
 [Install]
 WantedBy=multi-user.target
