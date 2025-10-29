@@ -8,7 +8,7 @@ Type=simple
 ExecStart=/opt/bin/zerotier-one
 Restart=always
 RestartSec=5
-LimitNOFILE=4096
+LimitCORE=0
 
 [Install]
 WantedBy=multi-user.target
