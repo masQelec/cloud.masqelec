@@ -1,0 +1,54 @@
+[Unit]
+Description=rclone (tvshows_2) OneDrive MULTI-CLIENTE
+Wants=network-online.target
+After=network-online.target
+Requires=network-online.target
+
+[Service]
+Type=simple
+User=root
+Group=root
+
+LimitNOFILE=65535
+KillMode=mixed
+KillSignal=SIGINT
+TimeoutStopSec=30
+
+ExecStartPre=/bin/mkdir -p /storage/.mnt/tvshows/2
+ExecStartPre=/bin/mkdir -p /storage/.cache/rclone
+ExecStartPre=/bin/sh -c 'mountpoint -q /storage/.mnt/tvshows/2 && /bin/fusermount -uz /storage/.mnt/tvshows/2 || true'
+
+ExecStart=/storage/.config/rclone/rclone mount users_library_2:tvshows /storage/.mnt/tvshows/2 \
+  --config /storage/.config/rclone/rclone.conf \
+  --read-only \
+  --allow-other \
+  --umask 002 \
+  --dir-cache-time 168h \
+  --poll-interval 1m \
+  --vfs-cache-mode writes \
+  --cache-dir /storage/.cache/rclone \
+  --vfs-cache-max-size 8G \
+  --vfs-cache-max-age 24h \
+  --vfs-read-chunk-size 16M \
+  --vfs-read-chunk-size-limit 256M \
+  --buffer-size 16M \
+  --transfers 1 \
+  --checkers 1 \
+  --tpslimit 4 \
+  --tpslimit-burst 4 \
+  --timeout 1m \
+  --contimeout 20s \
+  --low-level-retries 10 \
+  --retries 10 \
+  --retries-sleep 5s \
+  --log-level INFO \
+  --log-file /storage/.kodi/temp/rclone_tvshows_2.log
+
+ExecStop=/bin/sh -c 'mountpoint -q /storage/.mnt/tvshows/2 && /bin/fusermount -uz /storage/.mnt/tvshows/2 || true'
+
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
+
