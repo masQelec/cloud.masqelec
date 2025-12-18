@@ -23,8 +23,8 @@ ExecStart=/storage/.config/rclone/rclone mount users_library_1:movies /storage/.
   --read-only \
   --allow-other \
   --umask 002 \
-  --dir-cache-time 168h \
-  --poll-interval 1m \
+  --dir-cache-time 30m \
+  --poll-interval 0m \
   --vfs-cache-mode writes \
   --cache-dir /storage/.cache/rclone \
   --vfs-cache-max-size 8G \
