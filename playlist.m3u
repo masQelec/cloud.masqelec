@@ -57,7 +57,7 @@ http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48466.ts
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48487.ts
 #EXTINF:0 CUID="30" tvg-chno="29" tvg-name="|ES| TEN" tvg-logo="https://logo.m3uassets.com/ten.png" group-title="ES - TDT",|ES| TEN
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48488.ts
-#EXTINF:0 CUID="31" tvg-chno="30" tvg-name="|ES| IBERALIA" tvg-logo="https://logo.m3uassets.com/iberalia.png" group-title="ES - TDT",|ES| IBERALIA
+#EXTINF:0 CUID="31" tvg-chno="30" tvg-name="|ES| IBERALIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="ES - TDT",|ES| IBERALIA
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48495.ts
 #EXTINF:0 CUID="32" tvg-chno="31" tvg-name="|ES| TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="ES - TDT",|ES| TRECE
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48550.ts
@@ -67,7 +67,7 @@ http://379.solanaflix.com/live/USER_CODE/PASS_CODE/458497.ts
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48472.ts
 #EXTINF:0 CUID="28" tvg-chno="34" tvg-name="|ES| CLAN TV" tvg-logo="https://logo.m3uassets.com/clantve.png" group-title="ES - INFANTIL",|ES| CLAN TV
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48471.ts
-#EXTINF:0 CUID="138" tvg-chno="35" tvg-name="|ES| DREAMWORKS FHD" tvg-logo="https://logo.m3uassets.com/dreamworks.png" group-title="ES - INFANTIL",|ES| DREAMWORKS FHD
+#EXTINF:0 CUID="138" tvg-chno="35" tvg-name="|ES| DREAMWORKS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="ES - INFANTIL",|ES| DREAMWORKS FHD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/64410.ts
 #EXTINF:0 CUID="139" tvg-chno="36" tvg-name="|ES| DISNEY JR" tvg-logo="https://logo.m3uassets.com/disneyjr.png" group-title="ES - INFANTIL",|ES| DISNEY JR
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48469.ts
@@ -651,9 +651,9 @@ http://379.solanaflix.com/live/USER_CODE/PASS_CODE/79529.ts
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/79530.ts
 #EXTINF:0 CUID="341" tvg-chno="326" tvg-name="|ES| DAZN 4 FHD" tvg-logo="https://logo.m3uassets.com/dazn4.png" group-title="ES - DEPORTES",|ES| DAZN 4 FHD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/79531.ts
-#EXTINF:0 CUID="342" tvg-chno="327" tvg-name="|ES| MOVISTAR ELLAS VAMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg/250px-Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ES - DEPORTES",|ES| MOVISTAR ELLAS VAMOS FHD
+#EXTINF:0 CUID="342" tvg-chno="327" tvg-name="|ES| M+ ELLAS VAMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg/250px-Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ES - DEPORTES",|ES| M+ ELLAS VAMOS FHD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/109433.ts
-#EXTINF:0 CUID="343" tvg-chno="328" tvg-name="|ES| MOVISTAR ELLAS VAMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg/250px-Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ES - DEPORTES",|ES| MOVISTAR ELLAS VAMOS
+#EXTINF:0 CUID="343" tvg-chno="328" tvg-name="|ES| M+ ELLAS VAMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg/250px-Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ES - DEPORTES",|ES| M+ ELLAS VAMOS
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/109434.ts
 #EXTINF:0 CUID="345" tvg-chno="329" tvg-name="|ES| DAZN EVENTOS ( FEMENINO ) 1 HD" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="ES - DEPORTES",|ES| DAZN EVENTOS ( FEMENINO ) 1 HD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/112552.ts
@@ -1315,163 +1315,163 @@ http://379.solanaflix.com/live/USER_CODE/PASS_CODE/82181.ts
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/111134.ts
 #EXTINF:0 CUID="694" tvg-chno="658" tvg-name="|ADULTOS| XRESTREAMTV ADULT" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444776.ts
-#EXTINF:0 CUID="695" tvg-chno="659" tvg-name="[ADULTOS] XRESTREAMTV ADULT 2" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 2
+#EXTINF:0 CUID="695" tvg-chno="659" tvg-name="|ADULTOS| XRESTREAMTV ADULT 2" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 2
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444777.ts
-#EXTINF:0 CUID="696" tvg-chno="660" tvg-name="[ADULTOS] XRESTREAMTV ADULT 3" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 3
+#EXTINF:0 CUID="696" tvg-chno="660" tvg-name="|ADULTOS| XRESTREAMTV ADULT 3" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 3
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444778.ts
-#EXTINF:0 CUID="697" tvg-chno="661" tvg-name="[ADULTOS] XRESTREAMTV ADULT 4" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 4
+#EXTINF:0 CUID="697" tvg-chno="661" tvg-name="|ADULTOS| XRESTREAMTV ADULT 4" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 4
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444779.ts
-#EXTINF:0 CUID="698" tvg-chno="662" tvg-name="[ADULTOS] XRESTREAMTV ADULT 5" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 5
+#EXTINF:0 CUID="698" tvg-chno="662" tvg-name="|ADULTOS| XRESTREAMTV ADULT 5" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 5
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444780.ts
-#EXTINF:0 CUID="699" tvg-chno="663" tvg-name="[ADULTOS] XRESTREAMTV ADULT 6" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 6
+#EXTINF:0 CUID="699" tvg-chno="663" tvg-name="|ADULTOS| XRESTREAMTV ADULT 6" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 6
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444781.ts
-#EXTINF:0 CUID="700" tvg-chno="664" tvg-name="[ADULTOS] XRESTREAMTV ADULT 7" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 7
+#EXTINF:0 CUID="700" tvg-chno="664" tvg-name="|ADULTOS| XRESTREAMTV ADULT 7" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 7
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444782.ts
-#EXTINF:0 CUID="701" tvg-chno="665" tvg-name="[ADULTOS] XRESTREAMTV ADULT 8" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 8
+#EXTINF:0 CUID="701" tvg-chno="665" tvg-name="|ADULTOS| XRESTREAMTV ADULT 8" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 8
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444783.ts
-#EXTINF:0 CUID="702" tvg-chno="666" tvg-name="[ADULTOS] XRESTREAMTV ADULT 9" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 9
+#EXTINF:0 CUID="702" tvg-chno="666" tvg-name="|ADULTOS| XRESTREAMTV ADULT 9" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 9
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444784.ts
-#EXTINF:0 CUID="703" tvg-chno="667" tvg-name="[ADULTOS] XRESTREAMTV ADULT0" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT0
+#EXTINF:0 CUID="703" tvg-chno="667" tvg-name="|ADULTOS| XRESTREAMTV ADULT0" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT0
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444785.ts
-#EXTINF:0 CUID="704" tvg-chno="668" tvg-name="[ADULTOS] XRESTREAMTV ADULT" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT
+#EXTINF:0 CUID="704" tvg-chno="668" tvg-name="|ADULTOS| XRESTREAMTV ADULT" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444786.ts
-#EXTINF:0 CUID="705" tvg-chno="669" tvg-name="[ADULTOS] XRESTREAMTV ADULT 2" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 2
+#EXTINF:0 CUID="705" tvg-chno="669" tvg-name="|ADULTOS| XRESTREAMTV ADULT 2" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 2
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444787.ts
-#EXTINF:0 CUID="706" tvg-chno="670" tvg-name="[ADULTOS] XRESTREAMTV ADULT 3" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 3
+#EXTINF:0 CUID="706" tvg-chno="670" tvg-name="|ADULTOS| XRESTREAMTV ADULT 3" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 3
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444788.ts
-#EXTINF:0 CUID="707" tvg-chno="671" tvg-name="[ADULTOS] XRESTREAMTV ADULT 4" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 4
+#EXTINF:0 CUID="707" tvg-chno="671" tvg-name="|ADULTOS| XRESTREAMTV ADULT 4" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 4
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444789.ts
-#EXTINF:0 CUID="708" tvg-chno="672" tvg-name="[ADULTOS] XRESTREAMTV ADULT 5" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 5
+#EXTINF:0 CUID="708" tvg-chno="672" tvg-name="|ADULTOS| XRESTREAMTV ADULT 5" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 5
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444790.ts
-#EXTINF:0 CUID="709" tvg-chno="673" tvg-name="[ADULTOS] XRESTREAMTV ADULT 6" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 6
+#EXTINF:0 CUID="709" tvg-chno="673" tvg-name="|ADULTOS| XRESTREAMTV ADULT 6" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 6
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444791.ts
-#EXTINF:0 CUID="710" tvg-chno="674" tvg-name="[ADULTOS] XRESTREAMTV ADULT 7" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 7
+#EXTINF:0 CUID="710" tvg-chno="674" tvg-name="|ADULTOS| XRESTREAMTV ADULT 7" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 7
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444792.ts
-#EXTINF:0 CUID="711" tvg-chno="675" tvg-name="[ADULTOS] XRESTREAMTV ADULT 8" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 8
+#EXTINF:0 CUID="711" tvg-chno="675" tvg-name="|ADULTOS| XRESTREAMTV ADULT 8" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 8
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444793.ts
-#EXTINF:0 CUID="712" tvg-chno="676" tvg-name="[ADULTOS] XRESTREAMTV ADULT 9" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 9
+#EXTINF:0 CUID="712" tvg-chno="676" tvg-name="|ADULTOS| XRESTREAMTV ADULT 9" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 9
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444794.ts
-#EXTINF:0 CUID="713" tvg-chno="677" tvg-name="[ADULTOS] XRESTREAMTV ADULT0" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT0
+#EXTINF:0 CUID="713" tvg-chno="677" tvg-name="|ADULTOS| XRESTREAMTV ADULT0" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT0
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444795.ts
-#EXTINF:0 CUID="714" tvg-chno="678" tvg-name="[ADULTOS] XRESTREAMTV ADULT1" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT1
+#EXTINF:0 CUID="714" tvg-chno="678" tvg-name="|ADULTOS| XRESTREAMTV ADULT1" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT1
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444796.ts
-#EXTINF:0 CUID="715" tvg-chno="679" tvg-name="[ADULTOS] XRESTREAMTV ADULT2" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT2
+#EXTINF:0 CUID="715" tvg-chno="679" tvg-name="|ADULTOS| XRESTREAMTV ADULT2" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT2
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444797.ts
-#EXTINF:0 CUID="716" tvg-chno="680" tvg-name="[ADULTOS] XRESTREAMTV ADULT3" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT3
+#EXTINF:0 CUID="716" tvg-chno="680" tvg-name="|ADULTOS| XRESTREAMTV ADULT3" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT3
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444798.ts
-#EXTINF:0 CUID="717" tvg-chno="681" tvg-name="[ADULTOS] XRESTREAMTV ADULT4" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT4
+#EXTINF:0 CUID="717" tvg-chno="681" tvg-name="|ADULTOS| XRESTREAMTV ADULT4" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT4
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444799.ts
-#EXTINF:0 CUID="718" tvg-chno="682" tvg-name="[ADULTOS] XRESTREAMTV ADULT5" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT5
+#EXTINF:0 CUID="718" tvg-chno="682" tvg-name="|ADULTOS| XRESTREAMTV ADULT5" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT5
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444800.ts
-#EXTINF:0 CUID="719" tvg-chno="683" tvg-name="[ADULTOS] XRESTREAMTV ADULT6" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT6
+#EXTINF:0 CUID="719" tvg-chno="683" tvg-name="|ADULTOS| XRESTREAMTV ADULT6" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT6
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444801.ts
-#EXTINF:0 CUID="720" tvg-chno="684" tvg-name="[ADULTOS] XRESTREAMTV ADULT7" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT7
+#EXTINF:0 CUID="720" tvg-chno="684" tvg-name="|ADULTOS| XRESTREAMTV ADULT7" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT7
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444802.ts
-#EXTINF:0 CUID="721" tvg-chno="685" tvg-name="[ADULTOS] XRESTREAMTV ADULT8" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT8
+#EXTINF:0 CUID="721" tvg-chno="685" tvg-name="|ADULTOS| XRESTREAMTV ADULT8" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT8
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444803.ts
-#EXTINF:0 CUID="722" tvg-chno="686" tvg-name="[ADULTOS] XRESTREAMTV ADULT9" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT9
+#EXTINF:0 CUID="722" tvg-chno="686" tvg-name="|ADULTOS| XRESTREAMTV ADULT9" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT9
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444804.ts
-#EXTINF:0 CUID="723" tvg-chno="687" tvg-name="[ADULTOS] XRESTREAMTV ADULT 20" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 20
+#EXTINF:0 CUID="723" tvg-chno="687" tvg-name="|ADULTOS| XRESTREAMTV ADULT 20" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 20
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444805.ts
-#EXTINF:0 CUID="724" tvg-chno="688" tvg-name="[ADULTOS] XRESTREAMTV ADULT 21" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 21
+#EXTINF:0 CUID="724" tvg-chno="688" tvg-name="|ADULTOS| XRESTREAMTV ADULT 21" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 21
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444806.ts
-#EXTINF:0 CUID="725" tvg-chno="689" tvg-name="[ADULTOS] XRESTREAMTV ADULT 22" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 22
+#EXTINF:0 CUID="725" tvg-chno="689" tvg-name="|ADULTOS| XRESTREAMTV ADULT 22" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 22
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444807.ts
-#EXTINF:0 CUID="726" tvg-chno="690" tvg-name="[ADULTOS] XRESTREAMTV ADULT 23" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 23
+#EXTINF:0 CUID="726" tvg-chno="690" tvg-name="|ADULTOS| XRESTREAMTV ADULT 23" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 23
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444808.ts
-#EXTINF:0 CUID="727" tvg-chno="691" tvg-name="[ADULTOS] XRESTREAMTV ADULT 24" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 24
+#EXTINF:0 CUID="727" tvg-chno="691" tvg-name="|ADULTOS| XRESTREAMTV ADULT 24" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 24
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444809.ts
-#EXTINF:0 CUID="728" tvg-chno="692" tvg-name="[ADULTOS] XRESTREAMTV ADULT 25" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 25
+#EXTINF:0 CUID="728" tvg-chno="692" tvg-name="|ADULTOS| XRESTREAMTV ADULT 25" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 25
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444810.ts
-#EXTINF:0 CUID="729" tvg-chno="693" tvg-name="[ADULTOS] XRESTREAMTV ADULT 26" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 26
+#EXTINF:0 CUID="729" tvg-chno="693" tvg-name="|ADULTOS| XRESTREAMTV ADULT 26" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 26
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444811.ts
-#EXTINF:0 CUID="730" tvg-chno="694" tvg-name="[ADULTOS] XRESTREAMTV ADULT 27" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 27
+#EXTINF:0 CUID="730" tvg-chno="694" tvg-name="|ADULTOS| XRESTREAMTV ADULT 27" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 27
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444812.ts
-#EXTINF:0 CUID="731" tvg-chno="695" tvg-name="[ADULTOS] XRESTREAMTV ADULT 28" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 28
+#EXTINF:0 CUID="731" tvg-chno="695" tvg-name="|ADULTOS| XRESTREAMTV ADULT 28" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 28
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444813.ts
-#EXTINF:0 CUID="732" tvg-chno="696" tvg-name="[ADULTOS] XRESTREAMTV ADULT 29" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 29
+#EXTINF:0 CUID="732" tvg-chno="696" tvg-name="|ADULTOS| XRESTREAMTV ADULT 29" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 29
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444814.ts
-#EXTINF:0 CUID="733" tvg-chno="697" tvg-name="[ADULTOS] XRESTREAMTV ADULT 30" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 30
+#EXTINF:0 CUID="733" tvg-chno="697" tvg-name="|ADULTOS| XRESTREAMTV ADULT 30" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 30
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444815.ts
-#EXTINF:0 CUID="734" tvg-chno="698" tvg-name="[ADULTOS] XRESTREAMTV ADULT 31" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 31
+#EXTINF:0 CUID="734" tvg-chno="698" tvg-name="|ADULTOS| XRESTREAMTV ADULT 31" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 31
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444816.ts
-#EXTINF:0 CUID="735" tvg-chno="699" tvg-name="[ADULTOS] XRESTREAMTV ADULT 32" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 32
+#EXTINF:0 CUID="735" tvg-chno="699" tvg-name="|ADULTOS| XRESTREAMTV ADULT 32" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 32
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444817.ts
-#EXTINF:0 CUID="736" tvg-chno="700" tvg-name="[ADULTOS] XRESTREAMTV ADULT 33" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 33
+#EXTINF:0 CUID="736" tvg-chno="700" tvg-name="|ADULTOS| XRESTREAMTV ADULT 33" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 33
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444818.ts
-#EXTINF:0 CUID="737" tvg-chno="701" tvg-name="[ADULTOS] XRESTREAMTV ADULT 34" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 34
+#EXTINF:0 CUID="737" tvg-chno="701" tvg-name="|ADULTOS| XRESTREAMTV ADULT 34" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 34
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444819.ts
-#EXTINF:0 CUID="738" tvg-chno="702" tvg-name="[ADULTOS] XRESTREAMTV ADULT 35" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 35
+#EXTINF:0 CUID="738" tvg-chno="702" tvg-name="|ADULTOS| XRESTREAMTV ADULT 35" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 35
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444820.ts
-#EXTINF:0 CUID="739" tvg-chno="703" tvg-name="[ADULTOS] XRESTREAMTV ADULT 36" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 36
+#EXTINF:0 CUID="739" tvg-chno="703" tvg-name="|ADULTOS| XRESTREAMTV ADULT 36" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 36
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444821.ts
-#EXTINF:0 CUID="740" tvg-chno="704" tvg-name="[ADULTOS] XRESTREAMTV ADULT 37" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 37
+#EXTINF:0 CUID="740" tvg-chno="704" tvg-name="|ADULTOS| XRESTREAMTV ADULT 37" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 37
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444822.ts
-#EXTINF:0 CUID="741" tvg-chno="705" tvg-name="[ADULTOS] XRESTREAMTV ADULT 38" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 38
+#EXTINF:0 CUID="741" tvg-chno="705" tvg-name="|ADULTOS| XRESTREAMTV ADULT 38" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 38
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444823.ts
-#EXTINF:0 CUID="742" tvg-chno="706" tvg-name="[ADULTOS] XRESTREAMTV ADULT 39" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 39
+#EXTINF:0 CUID="742" tvg-chno="706" tvg-name="|ADULTOS| XRESTREAMTV ADULT 39" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 39
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444824.ts
-#EXTINF:0 CUID="743" tvg-chno="707" tvg-name="[ADULTOS] XRESTREAMTV ADULT 40" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 40
+#EXTINF:0 CUID="743" tvg-chno="707" tvg-name="|ADULTOS| XRESTREAMTV ADULT 40" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 40
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444825.ts
-#EXTINF:0 CUID="744" tvg-chno="708" tvg-name="[ADULTOS] XRESTREAMTV ADULT 41" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 41
+#EXTINF:0 CUID="744" tvg-chno="708" tvg-name="|ADULTOS| XRESTREAMTV ADULT 41" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 41
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444826.ts
-#EXTINF:0 CUID="745" tvg-chno="709" tvg-name="[ADULTOS] XRESTREAMTV ADULT 42" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 42
+#EXTINF:0 CUID="745" tvg-chno="709" tvg-name="|ADULTOS| XRESTREAMTV ADULT 42" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 42
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444827.ts
-#EXTINF:0 CUID="746" tvg-chno="710" tvg-name="[ADULTOS] XRESTREAMTV ADULT 43" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 43
+#EXTINF:0 CUID="746" tvg-chno="710" tvg-name="|ADULTOS| XRESTREAMTV ADULT 43" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 43
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444828.ts
-#EXTINF:0 CUID="747" tvg-chno="711" tvg-name="[ADULTOS] XRESTREAMTV ADULT 44" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 44
+#EXTINF:0 CUID="747" tvg-chno="711" tvg-name="|ADULTOS| XRESTREAMTV ADULT 44" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 44
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444829.ts
-#EXTINF:0 CUID="748" tvg-chno="712" tvg-name="[ADULTOS] XRESTREAMTV ADULT 45" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 45
+#EXTINF:0 CUID="748" tvg-chno="712" tvg-name="|ADULTOS| XRESTREAMTV ADULT 45" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 45
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444830.ts
-#EXTINF:0 CUID="749" tvg-chno="713" tvg-name="[ADULTOS] XRESTREAMTV ADULT 46" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 46
+#EXTINF:0 CUID="749" tvg-chno="713" tvg-name="|ADULTOS| XRESTREAMTV ADULT 46" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 46
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444831.ts
-#EXTINF:0 CUID="750" tvg-chno="714" tvg-name="[ADULTOS] XRESTREAMTV ADULT 47" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 47
+#EXTINF:0 CUID="750" tvg-chno="714" tvg-name="|ADULTOS| XRESTREAMTV ADULT 47" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 47
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444832.ts
-#EXTINF:0 CUID="751" tvg-chno="715" tvg-name="[ADULTOS] XRESTREAMTV ADULT 48" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 48
+#EXTINF:0 CUID="751" tvg-chno="715" tvg-name="|ADULTOS| XRESTREAMTV ADULT 48" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 48
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444833.ts
-#EXTINF:0 CUID="752" tvg-chno="716" tvg-name="[ADULTOS] XRESTREAMTV ADULT 49" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 49
+#EXTINF:0 CUID="752" tvg-chno="716" tvg-name="|ADULTOS| XRESTREAMTV ADULT 49" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 49
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444834.ts
-#EXTINF:0 CUID="753" tvg-chno="717" tvg-name="[ADULTOS] XRESTREAMTV ADULT 50" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 50
+#EXTINF:0 CUID="753" tvg-chno="717" tvg-name="|ADULTOS| XRESTREAMTV ADULT 50" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 50
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444835.ts
-#EXTINF:0 CUID="754" tvg-chno="718" tvg-name="[ADULTOS] XRESTREAMTV ADULT 51" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 51
+#EXTINF:0 CUID="754" tvg-chno="718" tvg-name="|ADULTOS| XRESTREAMTV ADULT 51" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 51
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444836.ts
-#EXTINF:0 CUID="755" tvg-chno="719" tvg-name="[ADULTOS] XRESTREAMTV ADULT 52" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 52
+#EXTINF:0 CUID="755" tvg-chno="719" tvg-name="|ADULTOS| XRESTREAMTV ADULT 52" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 52
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444837.ts
-#EXTINF:0 CUID="756" tvg-chno="720" tvg-name="[ADULTOS] XRESTREAMTV ADULT 53" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 53
+#EXTINF:0 CUID="756" tvg-chno="720" tvg-name="|ADULTOS| XRESTREAMTV ADULT 53" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 53
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444838.ts
-#EXTINF:0 CUID="757" tvg-chno="721" tvg-name="[ADULTOS] XRESTREAMTV ADULT 54" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 54
+#EXTINF:0 CUID="757" tvg-chno="721" tvg-name="|ADULTOS| XRESTREAMTV ADULT 54" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 54
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444839.ts
-#EXTINF:0 CUID="758" tvg-chno="722" tvg-name="[ADULTOS] XRESTREAMTV ADULT 55" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 55
+#EXTINF:0 CUID="758" tvg-chno="722" tvg-name="|ADULTOS| XRESTREAMTV ADULT 55" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 55
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444840.ts
-#EXTINF:0 CUID="759" tvg-chno="723" tvg-name="[ADULTOS] XRESTREAMTV ADULT 56" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 56
+#EXTINF:0 CUID="759" tvg-chno="723" tvg-name="|ADULTOS| XRESTREAMTV ADULT 56" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 56
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444841.ts
-#EXTINF:0 CUID="760" tvg-chno="724" tvg-name="[ADULTOS] XRESTREAMTV ADULT 57" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 57
+#EXTINF:0 CUID="760" tvg-chno="724" tvg-name="|ADULTOS| XRESTREAMTV ADULT 57" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 57
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444842.ts
-#EXTINF:0 CUID="761" tvg-chno="725" tvg-name="[ADULTOS] XRESTREAMTV ADULT 58" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 58
+#EXTINF:0 CUID="761" tvg-chno="725" tvg-name="|ADULTOS| XRESTREAMTV ADULT 58" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 58
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444843.ts
-#EXTINF:0 CUID="762" tvg-chno="726" tvg-name="[ADULTOS] XRESTREAMTV ADULT 59" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 59
+#EXTINF:0 CUID="762" tvg-chno="726" tvg-name="|ADULTOS| XRESTREAMTV ADULT 59" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 59
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444844.ts
-#EXTINF:0 CUID="763" tvg-chno="727" tvg-name="[ADULTOS] XRESTREAMTV ADULT 60" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 60
+#EXTINF:0 CUID="763" tvg-chno="727" tvg-name="|ADULTOS| XRESTREAMTV ADULT 60" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 60
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444845.ts
-#EXTINF:0 CUID="764" tvg-chno="728" tvg-name="[ADULTOS] XRESTREAMTV ADULT 61" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 61
+#EXTINF:0 CUID="764" tvg-chno="728" tvg-name="|ADULTOS| XRESTREAMTV ADULT 61" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 61
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444846.ts
-#EXTINF:0 CUID="765" tvg-chno="729" tvg-name="[ADULTOS] XRESTREAMTV ADULT 62" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 62
+#EXTINF:0 CUID="765" tvg-chno="729" tvg-name="|ADULTOS| XRESTREAMTV ADULT 62" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 62
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444847.ts
-#EXTINF:0 CUID="766" tvg-chno="730" tvg-name="[ADULTOS] XRESTREAMTV ADULT 63" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 63
+#EXTINF:0 CUID="766" tvg-chno="730" tvg-name="|ADULTOS| XRESTREAMTV ADULT 63" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 63
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444848.ts
-#EXTINF:0 CUID="767" tvg-chno="731" tvg-name="[ADULTOS] XRESTREAMTV ADULT 64" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 64
+#EXTINF:0 CUID="767" tvg-chno="731" tvg-name="|ADULTOS| XRESTREAMTV ADULT 64" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 64
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444849.ts
-#EXTINF:0 CUID="768" tvg-chno="732" tvg-name="[ADULTOS] XRESTREAMTV ADULT 65" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 65
+#EXTINF:0 CUID="768" tvg-chno="732" tvg-name="|ADULTOS| XRESTREAMTV ADULT 65" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 65
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444850.ts
-#EXTINF:0 CUID="769" tvg-chno="733" tvg-name="[ADULTOS] XRESTREAMTV ADULT 66" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 66
+#EXTINF:0 CUID="769" tvg-chno="733" tvg-name="|ADULTOS| XRESTREAMTV ADULT 66" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 66
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444851.ts
-#EXTINF:0 CUID="770" tvg-chno="734" tvg-name="[ADULTOS] XRESTREAMTV ADULT 67" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 67
+#EXTINF:0 CUID="770" tvg-chno="734" tvg-name="|ADULTOS| XRESTREAMTV ADULT 67" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 67
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444852.ts
-#EXTINF:0 CUID="771" tvg-chno="735" tvg-name="[ADULTOS] XRESTREAMTV ADULT 68" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 68
+#EXTINF:0 CUID="771" tvg-chno="735" tvg-name="|ADULTOS| XRESTREAMTV ADULT 68" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 68
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444853.ts
-#EXTINF:0 CUID="772" tvg-chno="736" tvg-name="[ADULTOS] XRESTREAMTV ADULT 69" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 69
+#EXTINF:0 CUID="772" tvg-chno="736" tvg-name="|ADULTOS| XRESTREAMTV ADULT 69" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 69
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444854.ts
-#EXTINF:0 CUID="773" tvg-chno="737" tvg-name="[ADULTOS] XRESTREAMTV ADULT 70" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",[ADULTOS] XRESTREAMTV ADULT 70
+#EXTINF:0 CUID="773" tvg-chno="737" tvg-name="|ADULTOS| XRESTREAMTV ADULT 70" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| XRESTREAMTV ADULT 70
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444855.ts
 #EXTINF:0 CUID="774" tvg-chno="738" tvg-name="|ADULTOS| PURE BABES TV" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| PURE BABES TV
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/98993.ts
