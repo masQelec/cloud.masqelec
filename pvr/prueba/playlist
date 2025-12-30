@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 CUID="1" tvg-chno="1" tvg-name="|ES| LA 1 UHD" tvg-logo="https://logo.m3uassets.com/la1.png" group-title="ES - TDT",|ES| LA 1 UHD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/113615.ts
 #EXTINF:0 CUID="2" tvg-chno="2" tvg-name="|ES| LA 1 FHD" tvg-logo="https://logo.m3uassets.com/la1.png" group-title="ES - TDT",|ES| LA 1 FHD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48384.ts
 #EXTINF:0 CUID="3" tvg-chno="3" tvg-name="|ES| LA 1" tvg-logo="https://logo.m3uassets.com/la1.png" group-title="ES - TDT",|ES| LA 1
@@ -1653,7 +1655,5 @@ http://379.solanaflix.com/live/USER_CODE/PASS_CODE/99096.ts
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/99097.ts
 #EXTINF:0 CUID="864" tvg-chno="828" tvg-name="|ADULTOS| X DESIRE" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| X DESIRE
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/99098.ts
-#EXTINF:0 CUID="865" tvg-chno="829" tvg-name="|ADULTOS| X BUNGA BUNGA" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| X BUNGA BUNGA
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/99099.ts
 #EXTINF:0 CUID="865" tvg-chno="829" tvg-name="|ADULTOS| X BUNGA BUNGA" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| X BUNGA BUNGA
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/99099.ts
