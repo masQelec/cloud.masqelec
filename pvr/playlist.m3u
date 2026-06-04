@@ -127,11 +127,11 @@ http://379.solanaflix.com/live/USER_CODE/PASS_CODE/458462.ts
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/109248.ts
 #EXTINF:0 CUID="56" tvg-chno="64" tvg-name="|ES| M+ CLASICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg/120px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ES - CINE",|ES| M+ CLASICOS
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/109249.ts
-#EXTINF:0 CUID="93" tvg-chno="65" tvg-name="|ES| M+ LOS 2000 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ES - CINE",|ES| M+ LOS 2000 FHD
+#EXTINF:0 CUID="93" tvg-chno="65" tvg-name="|ES| M+ LOS 90 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ES - CINE",|ES| M+ LOS 90 FHD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/440983.ts
-#EXTINF:0 CUID="94" tvg-chno="66" tvg-name="|ES| M+ LOS 2000 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ES - CINE",|ES| M+ LOS 2000 HD
+#EXTINF:0 CUID="94" tvg-chno="66" tvg-name="|ES| M+ LOS 90 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ES - CINE",|ES| M+ LOS 90 HD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/440984.ts
-#EXTINF:0 CUID="95" tvg-chno="67" tvg-name="|ES| M+ LOS 2000 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ES - CINE",|ES| M+ LOS 2000 SD
+#EXTINF:0 CUID="95" tvg-chno="67" tvg-name="|ES| M+ LOS 90 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ES - CINE",|ES| M+ LOS 90 SD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/440985.ts
 #EXTINF:0 CUID="61" tvg-chno="68" tvg-name="|ES| HOLLYWOOD FHD" tvg-logo="https://logo.m3uassets.com/hollywood.png" group-title="ES - CINE",|ES| HOLLYWOOD FHD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48411.ts
@@ -225,6 +225,8 @@ http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48417.ts
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/458495.ts
 #EXTINF:0 CUID="112" tvg-chno="113" tvg-name="|ES| VINTV SD" tvg-logo="https://logo.m3uassets.com/vintv.png" group-title="ES - CINE",|ES| VINTV SD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/458496.ts
+#EXTINF:0 CUID="893" tvg-chno="114" tvg-name="|ES| M+ CERO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/0_por_Movistar_Plus%2B_2022_logo.svg" group-title="ES - ESTILO DE VIDA",|ES| M+ CERO FHD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462270.ts
 #EXTINF:0 CUID="115" tvg-chno="114" tvg-name="|ES| BBC TOPGEAR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="ES - ESTILO DE VIDA",|ES| BBC TOPGEAR FHD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444574.ts
 #EXTINF:0 CUID="116" tvg-chno="115" tvg-name="|ES| BBC TOPGEAR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="ES - ESTILO DE VIDA",|ES| BBC TOPGEAR SD
@@ -1697,3 +1699,33 @@ http://379.solanaflix.com/live/USER_CODE/PASS_CODE/99097.ts
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/99098.ts
 #EXTINF:0 CUID="865" tvg-chno="849" tvg-name="|ADULTOS| X BUNGA BUNGA" tvg-logo="https://logo.m3uassets.com/adult.png" group-title="ADULTOS",|ADULTOS| X BUNGA BUNGA
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/99099.ts
+#EXTINF:0 CUID="894" tvg-name="DAZN MUNDIAL 1 FHD" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 1 FHD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462274.ts
+#EXTINF:0 CUID="895" tvg-name="DAZN MUNDIAL 1 FHD ORANGE" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 1 FHD ORANGE
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462276.ts
+#EXTINF:0 CUID="896" tvg-name="DAZN MUNDIAL 1 HD" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 1 HD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462275.ts
+#EXTINF:0 CUID="897" tvg-name="DAZN MUNDIAL 2 FHD" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 2 FHD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462277.ts
+#EXTINF:0 CUID="898" tvg-name="DAZN MUNDIAL 2 FHD ORANGE" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 2 FHD ORANGE
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462280.ts
+#EXTINF:0 CUID="899" tvg-name="DAZN MUNDIAL 2 HD" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 2 HD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462278.ts
+#EXTINF:0 CUID="900" tvg-name="DAZN MUNDIAL 2 SD" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 2 SD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462279.ts
+#EXTINF:0 CUID="901" tvg-name="DAZN MUNDIAL 3 FHD" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 3 FHD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462281.ts
+#EXTINF:0 CUID="902" tvg-name="DAZN MUNDIAL 3 FHD ORANGE" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 3 FHD ORANGE
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462284.ts
+#EXTINF:0 CUID="903" tvg-name="DAZN MUNDIAL 3 HD" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 3 HD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462282.ts
+#EXTINF:0 CUID="904" tvg-name="DAZN MUNDIAL 3 SD" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 3 SD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462283.ts
+#EXTINF:0 CUID="905" tvg-name="DAZN MUNDIAL 4 FHD" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 4 FHD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462285.ts
+#EXTINF:0 CUID="906" tvg-name="DAZN MUNDIAL 4 FHD ORANGE" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 4 FHD ORANGE
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462288.ts
+#EXTINF:0 CUID="907" tvg-name="DAZN MUNDIAL 4 HD" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 4 HD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462286.ts
+#EXTINF:0 CUID="908" tvg-name="DAZN MUNDIAL 4 SD" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 4 SD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462287.ts
