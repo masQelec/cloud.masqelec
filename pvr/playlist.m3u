@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="|ES| LA 1 UHD" tvg-name="LA 1 UHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/La%201%20UHD.png" group-title="ES - TDT" CUID="242" tvg-chno="1" tvh-chnum="1",LA 1 UHD
+#EXTINF:-1 tvg-id="|ES| LA 1 UHD" tvg-name="LA 1 UHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/La%201.png" group-title="ES - TDT" CUID="242" tvg-chno="1" tvh-chnum="1",LA 1 UHD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/113615.ts
-#EXTINF:-1 tvg-id="|ES| LA 1 FHD" tvg-name="LA 1 FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/La%201%20UHD.png" group-title="ES - TDT" CUID="243" tvg-chno="2" tvh-chnum="2",LA 1 FHD
+#EXTINF:-1 tvg-id="|ES| LA 1 FHD" tvg-name="LA 1 FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/La%201.png" group-title="ES - TDT" CUID="243" tvg-chno="2" tvh-chnum="2",LA 1 FHD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48384.ts
-#EXTINF:-1 tvg-id="|ES| LA 1" tvg-name="LA 1" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/La%201%20UHD.png" group-title="ES - TDT" CUID="244" tvg-chno="3" tvh-chnum="3",LA 1
+#EXTINF:-1 tvg-id="|ES| LA 1" tvg-name="LA 1" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/La%201.png" group-title="ES - TDT" CUID="244" tvg-chno="3" tvh-chnum="3",LA 1
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48383.ts
 #EXTINF:-1 tvg-id="|ES| LA 2 FHD" tvg-name="LA 2 FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/La%202.png" group-title="ES - TDT" CUID="245" tvg-chno="4" tvh-chnum="4",LA 2 FHD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48386.ts
