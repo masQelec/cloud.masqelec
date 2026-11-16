@@ -133,7 +133,7 @@ http://379.solanaflix.com/live/USER_CODE/PASS_CODE/114290.ts
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/458461.ts
 #EXTINF:-1 tvg-id="|ES| M+ INDIE SD" tvg-name="M+ INDIE SD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/M%2B%20Indie.png" group-title="ES - CINE" CUID="657" tvg-chno="67" tvh-chnum="67",M+ INDIE SD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/458462.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICO FHD" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="ES - CINE" CUID="161" tvg-chno="68" tvh-chnum="68",M+ CLASICO FHD
+#EXTINF:-1 tvg-id="|ES| M+ CLASICOS FHD" tvg-name="M+ CLASICOS FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/M%2B%20Cl%C3%A1sicos.png" group-title="ES - CINE" CUID="161" tvg-chno="68" tvh-chnum="68",M+ CLASICOS FHD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/109248.ts
 #EXTINF:-1 tvg-id="|ES| M+ CLASICOS" tvg-name="M+ CLASICOS" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/M%2B%20Cl%C3%A1sicos.png" group-title="ES - CINE" CUID="162" tvg-chno="69" tvh-chnum="69",M+ CLASICOS
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/109249.ts
@@ -201,34 +201,34 @@ http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48432.ts
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48431.ts
 #EXTINF:-1 tvg-id="|ES| COSMO" tvg-name="COSMO" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/Cosmo.png" group-title="ES - CINE" CUID="201" tvg-chno="101" tvh-chnum="101",COSMO
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48447.ts
-#EXTINF:-1 tvg-id="|ES| COMEDY CENTRAL FHD" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/Comedy%20Central.png" group-title="ES - CINE" CUID="202" tvg-chno="102" tvh-chnum="102",COMEDY CENTRAL FHD
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48450.ts
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/Comedy%20Central.png" group-title="ES - CINE" CUID="203" tvg-chno="103" tvh-chnum="103",COMEDY CENTRAL HD
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48449.ts
-#EXTINF:-1 tvg-id="|ES| DARK FHD" tvg-name="DARK FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/DARK.png" group-title="ES - CINE" CUID="177" tvg-chno="104" tvh-chnum="104",DARK FHD
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/62202.ts
-#EXTINF:-1 tvg-id="|ES| DARK HD" tvg-name="DARK HD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/DARK.png" group-title="ES - CINE" CUID="178" tvg-chno="105" tvh-chnum="105",DARK HD
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/438665.ts
-#EXTINF:-1 tvg-id="|ES| DARK SD" tvg-name="DARK SD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/DARK.png" group-title="ES - CINE" CUID="179" tvg-chno="106" tvh-chnum="106",DARK SD
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/438702.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC SELEKT FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/AMC%20Selekt%20TV.png" group-title="ES - CINE" CUID="190" tvg-chno="107" tvh-chnum="107",AMC SELEKT FHD
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/150608.ts
-#EXTINF:-1 tvg-id="|ES| BBC DRAMA SD" tvg-name="BBC DRAMA FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/BBC%20Drama.png" group-title="ES - CINE" CUID="132" tvg-chno="108" tvh-chnum="108",BBC DRAMA FHD
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444572.ts
-#EXTINF:-1 tvg-id="|ES| BBC DRAMA SD" tvg-name="BBC DRAMA SD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/BBC%20Drama.png" group-title="ES - CINE" CUID="133" tvg-chno="109" tvh-chnum="109",BBC DRAMA SD
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444571.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC SERIES FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/BBC%20Series.png" group-title="ES - CINE" CUID="870" tvg-chno="110" tvh-chnum="110",BBC SERIES FHD
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/461591.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC SERIES SD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/BBC%20Series.png" group-title="ES - CINE" CUID="871" tvg-chno="111" tvh-chnum="111",BBC SERIES SD
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/461590.ts
-#EXTINF:-1 tvg-id="|ES| BOM CINE" tvg-name="BOM CINE" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/BOM%20Cine.png" group-title="ES - CINE" CUID="289" tvg-chno="112" tvh-chnum="112",BOM CINE
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/109247.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL FLIXOLE 1 FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/Canal%20FlixOl%C3%A9%201.png" group-title="ES - CINE" CUID="141" tvg-chno="113" tvh-chnum="113",CANAL FLIXOLE 1 FHD
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462295.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL FLIXOLE 2 FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/Canal%20FlixOl%C3%A9%202.png" group-title="ES - CINE" CUID="142" tvg-chno="114" tvh-chnum="114",CANAL FLIXOLE 2 FHD
-http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462294.ts
-#EXTINF:-1 tvg-id="" tvg-name="COSMOPOLITAN FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/Cosmo.png" group-title="ES - CINE" CUID="200" tvg-chno="115" tvh-chnum="115",COSMOPOLITAN FHD
+#EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/Cosmo.png" group-title="ES - CINE" CUID="200" tvg-chno="102" tvh-chnum="102",COSMO HD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48448.ts
+#EXTINF:-1 tvg-id="|ES| COMEDY CENTRAL FHD" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/Comedy%20Central.png" group-title="ES - CINE" CUID="202" tvg-chno="103" tvh-chnum="103",COMEDY CENTRAL FHD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48450.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/Comedy%20Central.png" group-title="ES - CINE" CUID="203" tvg-chno="104" tvh-chnum="104",COMEDY CENTRAL HD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/48449.ts
+#EXTINF:-1 tvg-id="|ES| DARK FHD" tvg-name="DARK FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/DARK.png" group-title="ES - CINE" CUID="177" tvg-chno="105" tvh-chnum="105",DARK FHD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/62202.ts
+#EXTINF:-1 tvg-id="|ES| DARK HD" tvg-name="DARK HD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/DARK.png" group-title="ES - CINE" CUID="178" tvg-chno="106" tvh-chnum="106",DARK HD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/438665.ts
+#EXTINF:-1 tvg-id="|ES| DARK SD" tvg-name="DARK SD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/DARK.png" group-title="ES - CINE" CUID="179" tvg-chno="107" tvh-chnum="107",DARK SD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/438702.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC SELEKT FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/AMC%20Selekt%20TV.png" group-title="ES - CINE" CUID="190" tvg-chno="108" tvh-chnum="108",AMC SELEKT FHD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/150608.ts
+#EXTINF:-1 tvg-id="|ES| BBC DRAMA SD" tvg-name="BBC DRAMA FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/BBC%20Drama.png" group-title="ES - CINE" CUID="132" tvg-chno="109" tvh-chnum="109",BBC DRAMA FHD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444572.ts
+#EXTINF:-1 tvg-id="|ES| BBC DRAMA SD" tvg-name="BBC DRAMA SD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/BBC%20Drama.png" group-title="ES - CINE" CUID="133" tvg-chno="110" tvh-chnum="110",BBC DRAMA SD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/444571.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC SERIES FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/BBC%20Series.png" group-title="ES - CINE" CUID="870" tvg-chno="111" tvh-chnum="111",BBC SERIES FHD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/461591.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC SERIES SD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/BBC%20Series.png" group-title="ES - CINE" CUID="871" tvg-chno="112" tvh-chnum="112",BBC SERIES SD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/461590.ts
+#EXTINF:-1 tvg-id="|ES| BOM CINE" tvg-name="BOM CINE" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/BOM%20Cine.png" group-title="ES - CINE" CUID="289" tvg-chno="113" tvh-chnum="113",BOM CINE
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/109247.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FLIXOLE 1 FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/Canal%20FlixOl%C3%A9%201.png" group-title="ES - CINE" CUID="141" tvg-chno="114" tvh-chnum="114",CANAL FLIXOLE 1 FHD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462295.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FLIXOLE 2 FHD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/Canal%20FlixOl%C3%A9%202.png" group-title="ES - CINE" CUID="142" tvg-chno="115" tvh-chnum="115",CANAL FLIXOLE 2 FHD
+http://379.solanaflix.com/live/USER_CODE/PASS_CODE/462294.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAX AVANCES HD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/Max%20Avances.png" group-title="ES - CINE" CUID="537" tvg-chno="116" tvh-chnum="116",MAX AVANCES HD
 http://379.solanaflix.com/live/USER_CODE/PASS_CODE/440980.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAX AVANCES HD" tvg-logo="https://raw.githubusercontent.com/masQelec/picons_masqelec/main/Max%20Avances.png" group-title="ES - CINE" CUID="538" tvg-chno="117" tvh-chnum="117",MAX AVANCES HD
