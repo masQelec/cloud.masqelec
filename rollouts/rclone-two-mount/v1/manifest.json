@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "layout": "two-fuse-v1",
+  "candidate_id": "2026-11-17-two-fuse-v1",
+  "activation": "operator_only",
+  "credential_source": "local_mqc2_verified",
+  "update_mode": "stage_only",
+  "auto_apply": false,
+  "production_authorized": false,
+  "scope": "master_and_clients",
+  "kodi_compat_paths": [
+    "/storage/.mnt/videos/1",
+    "/storage/.mnt/videos/2",
+    "/storage/.mnt/tvshows/1",
+    "/storage/.mnt/tvshows/2"
+  ],
+  "prerequisites": [
+    "rclone_type_notify_verified_on_device",
+    "two_isolated_crypt_plus_onedrive_configs",
+    "no_playback_active",
+    "client_reconciliation_supported",
+    "rollback_ready",
+    "operator_authorization"
+  ],
+  "legacy_units_unchanged": true,
+  "stage_artifacts_in_production_systemd": false,
+  "notes": "No modifica system.d. Todas las credenciales se generan localmente y nunca se suben a GitHub."
+}
